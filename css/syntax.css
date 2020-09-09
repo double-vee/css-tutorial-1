@@ -1,3 +1,19 @@
-article h2, article p{
-  font-family: Arial, Helvetica, sans-serif;
+h1{
+  text-decoration: overline;
+}
+
+article{
+  text-decoration: none;
+}
+
+h2{
+  text-decoration: underline;
+}
+
+p:first-of-type{
+  text-decoration: line-through;
+}
+
+a{
+  text-decoration: inherit;
 }
