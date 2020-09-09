@@ -1,15 +1,11 @@
-li:nth-child(1), li:nth-child(7){
-  font-weight: bold;
-}
+/* article:nth-of-type(1){
+  color: red;
+} */
 
-li:nth-child(even){
-  background: lightgray;
-}
+/* article:nth-of-type(odd){
+  color: red;
+} */
 
-li:nth-child(odd){
-  background: aquamarine;
-}
-
-li:nth-child(3n+1){
-  color: blue;
+article:nth-of-type(2n+1){
+  color: red;
 }
