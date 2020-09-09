@@ -1,8 +1,11 @@
-h1{
-  font-weight: normal;
+body{
+  text-transform: uppercase;
 }
 
-p{
-  font-weight: lighter;
-  font-family: "Yu Gothic";
+#header p{
+  text-transform: capitalize;
+}
+
+body > p{
+  text-transform: none;
 }
