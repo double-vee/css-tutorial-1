@@ -1,11 +1,11 @@
-#header h1{
-  color: teal;
+a{
+  color: magenta;
+  text-decoration: none;
+  font-weight: bold;
 }
 
-#header h2{
-  color: #830561;
-}
-
-#header{
-  background: whitesmoke;
+a:hover{
+  color: black;
+  text-decoration: underline;
+  background: yellow;
 }
