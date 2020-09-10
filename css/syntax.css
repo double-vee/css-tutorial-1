@@ -1,11 +1,24 @@
-a{
-  color: magenta;
-  text-decoration: none;
-  font-weight: bold;
+body{
+  background: #eee;
 }
 
-a:hover{
-  color: black;
-  text-decoration: underline;
-  background: yellow;
+#main-content{
+  background: #fff;
+  width: 30%;
+  margin: 0 auto;
+  height: 100%;
+  padding: 2.5%;
+}
+
+h2{
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+  font-size: 1.2em;
+  line-height: 150%;
+  letter-spacing: normal;
+  word-spacing: normal;
 }
