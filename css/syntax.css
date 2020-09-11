@@ -1,22 +1,10 @@
-#main-content div{
-  margin: 0 0 20px 0;
-  background:#ccc;
-}
-
 .static-width{
   width: 300px;
-  height: 100px;
-  border-radius: 10px;
-}
-
-.percentage-width{
-  width: 70%;
-  height: 50px;
-  border-radius: 10px 20px;
-}
-
-.inline-block{
-  width: 100px;
-  height: 100px;
-  border-radius: 50px;
+  height: 300px;
+  border-radius: 50%;
+  background-color: lightgray;
+  background-image: url(https://www.pngkit.com/png/full/0-8949_batman-logo-png-transparent-batman-medley-sticker-pack.png);
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: center;
 }
