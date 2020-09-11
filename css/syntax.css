@@ -2,9 +2,7 @@
   width: 300px;
   height: 300px;
   border-radius: 50%;
+  background: url(https://www.pngkit.com/png/full/0-8949_batman-logo-png-transparent-batman-medley-sticker-pack.png) no-repeat center;
   background-color: lightgray;
-  background-image: url(https://www.pngkit.com/png/full/0-8949_batman-logo-png-transparent-batman-medley-sticker-pack.png);
   background-size: 80%;
-  background-repeat: no-repeat;
-  background-position: center;
 }
